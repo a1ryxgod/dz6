@@ -1,0 +1,60 @@
+p {
+    font-size: 14px;
+    color: #000000;
+    font-family: "Montserrat";
+    font-weight: 400;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 900px;
+    width: 500px;
+}
+
+button {
+    font-size: 15px;
+    color: #95e1d3;
+    font-family: "Montserrat";
+    font-weight: 700;
+    outline: 0;
+}
+
+.we {
+    display: flex;
+    justify-content: center;
+    font-size: 24px;
+    color: #333333;
+    font-family: "Kaushan Script";
+    font-weight: 400;
+    text-align: center;
+}
+
+.am {
+    font-size: 30px;
+    color: #333333;
+    font-family: "Montserrat";
+    font-weight: 700;
+    text-align: center;
+}
+
+.mogo {
+    font-size: 30px;
+    color: #95e1d3;
+    font-family: "Montserrat";
+    font-weight: 700;
+}
+
+.big {
+    display: flex;
+    justify-content: space-evenly;
+    width: 1200px;
+    height: 200px;
+}
+
+h2 {
+    font-size: 14px;
+    color: #000000;
+    font-family: "Montserrat";
+    font-weight: 400;
+}
