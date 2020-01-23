@@ -47,9 +47,11 @@ button {
 
 .big {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
+    flex-wrap: wrap;
     width: 1200px;
     height: 200px;
+    margin-left: 400px;
 }
 
 h2 {
@@ -57,4 +59,12 @@ h2 {
     color: #000000;
     font-family: "Montserrat";
     font-weight: 400;
+}
+
+.by {
+    font-size: 14px;
+    color: #333333;
+    font-family: "Montserrat";
+    font-weight: 400;
+    text-align: center;
 }
